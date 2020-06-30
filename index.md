@@ -8,3 +8,5 @@ Sollten alle Tests bestanden worden sein, dann kannst du deine Änderungen in de
 * Schlräfig
 
 > Ich habe immer Hunger.
+
+<img src="https://avatars2.githubusercontent.com/in/15368?s=88&v=4"/>
